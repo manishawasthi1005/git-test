@@ -1,1 +1,2 @@
 Master text2 txt
+change in master copy
