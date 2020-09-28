@@ -2,5 +2,11 @@ Master text2 txt
 
 Override this fr Feature branch
 
+feature checkin1
+feature checkin2
+
 master checkin1
 master checkin2
+
+feature checkin3
+
