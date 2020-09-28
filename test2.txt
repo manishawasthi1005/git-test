@@ -9,4 +9,3 @@ master checkin1
 master checkin2
 
 feature checkin3
-
